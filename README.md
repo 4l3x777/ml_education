@@ -5,3 +5,11 @@
 ### HW1 (python basic type)
 
 - hw1.ipynb (jupyter notebook)
+
+### HW2 (Control Flow)
+
+- hw2.ipynb (jupyter notebook)
+
+### HW3 (Functions. Part 1)
+
+- hw3.ipynb (jupyter notebook)
