@@ -13,3 +13,7 @@
 ### HW3 (Functions. Part 1)
 
 - hw3.ipynb (jupyter notebook)
+
+### HW4 (Advanced OOP. Continue)
+
+- hw4.ipynb (jupyter notebook)
