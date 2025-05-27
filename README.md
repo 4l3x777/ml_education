@@ -21,3 +21,7 @@
 ### HW5 (Advanced OOP. Continue 2)
 
 - hw5 folder + tests
+
+### HW6 (Git)
+
+- hw6.ipynb (jupyter notebook) 
