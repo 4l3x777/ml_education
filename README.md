@@ -24,4 +24,8 @@
 
 ### HW6 (Git)
 
-- hw6.ipynb (jupyter notebook) 
+- hw6.ipynb (jupyter notebook)
+
+### HW7 (Data visualization)
+
+- hw7.ipynb (jupyter notebook)
