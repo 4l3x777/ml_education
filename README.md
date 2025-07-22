@@ -29,3 +29,7 @@
 ### HW7 (Data visualization)
 
 - hw7.ipynb (jupyter notebook)
+
+### HW8 (Linear algebra, math analysis)
+
+- hw8.ipynb (jupyter notebook)
