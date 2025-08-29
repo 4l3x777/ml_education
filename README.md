@@ -33,3 +33,7 @@
 ### HW8 (Linear algebra, math analysis)
 
 - hw8.ipynb (jupyter notebook)
+
+### HW9 (Modeling)
+
+- hw9.ipynb (jupyter notebook)
