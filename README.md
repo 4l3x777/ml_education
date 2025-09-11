@@ -36,4 +36,8 @@
 
 ### HW9 (Modeling)
 
-- hw9.ipynb (jupyter notebook)
+- homework_09.ipynb (jupyter notebook)
+
+### HW10 (Models Ensembles)
+
+- homework_10.ipynb (jupyter notebook)
