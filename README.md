@@ -41,3 +41,9 @@
 ### HW10 (Models Ensembles)
 
 - homework_10.ipynb (jupyter notebook)
+
+## ML Pro - pro track
+
+### HW1 (Gradient Boosting)
+
+- hw1.ipynb (jupyter notebook)
