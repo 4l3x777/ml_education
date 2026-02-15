@@ -47,3 +47,7 @@
 ### HW1 (Gradient Boosting)
 
 - hw1.ipynb (jupyter notebook)
+
+### HW2 (Clusterization)
+
+- hw2.ipynb (jupyter notebook)
