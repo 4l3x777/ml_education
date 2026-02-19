@@ -51,3 +51,7 @@
 ### HW2 (Clusterization)
 
 - hw2.ipynb (jupyter notebook)
+
+### HW3 (Finding anomalies in data)
+
+- hw3.ipynb (jupyter notebook)
