@@ -55,3 +55,7 @@
 ### HW3 (Finding anomalies in data)
 
 - hw3.ipynb (jupyter notebook)
+
+### HW4 (Algorithms on graphs)
+
+- hw4.ipynb (jupyter notebook)
