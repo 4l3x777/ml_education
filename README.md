@@ -59,3 +59,7 @@
 ### HW4 (Algorithms on graphs)
 
 - hw4.ipynb (jupyter notebook)
+
+### HW5 (Advanced optimization techniques, backpropagation and neural network training)
+
+- hw5.ipynb (jupyter notebook)
