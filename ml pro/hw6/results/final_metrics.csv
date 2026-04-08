@@ -1,0 +1,7 @@
+metric,value
+Loss,0.4892
+Dice (mean),0.6218
+Dice (Fish),0.5614
+Dice (Flower),0.7067
+Dice (Gravel),0.5801
+Dice (Sugar),0.6392

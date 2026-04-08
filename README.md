@@ -63,3 +63,7 @@
 ### HW5 (Advanced optimization techniques, backpropagation and neural network training)
 
 - hw5.ipynb (jupyter notebook)
+
+### HW6 (Convolutional Neural Networks)
+
+- hw6.ipynb (jupyter notebook)
