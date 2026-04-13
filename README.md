@@ -67,3 +67,7 @@
 ### HW6 (Convolutional Neural Networks)
 
 - hw6.ipynb (jupyter notebook)
+
+### HW7 (Preprocessing and Tokenization)
+
+- hw7.ipynb (jupyter notebook)
