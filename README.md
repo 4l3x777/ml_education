@@ -71,3 +71,7 @@
 ### HW7 (Preprocessing and Tokenization)
 
 - hw7.ipynb (jupyter notebook)
+
+### HW8 (Feel the power of transformers in battle)
+
+- hw8.ipynb (jupyter notebook)
