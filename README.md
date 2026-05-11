@@ -75,3 +75,7 @@
 ### HW8 (Feel the power of transformers in battle)
 
 - hw8.ipynb (jupyter notebook)
+
+### HW9 (What does the coming day have in store for us? Making a forecast of a time series using the studied methods)
+
+- hw9.ipynb (jupyter notebook)
