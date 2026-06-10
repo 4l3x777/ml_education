@@ -79,3 +79,7 @@
 ### HW9 (What does the coming day have in store for us? Making a forecast of a time series using the studied methods)
 
 - hw9.ipynb (jupyter notebook)
+
+### HW10 (Diapers or beer? A practical project to create a recommendation system)
+
+- hw10.ipynb (jupyter notebook)
